@@ -14,7 +14,7 @@ This project is a Java-based Hotel Management System developed during my BCA to 
 - Oracle Database (RDBMS)
 
 ## 📄 Project Documentation
-👉 [View Full Report](docs/shyam_sunder_kumar.pdf)
+👉 [View Full Report](docs/shyam sunder kumar.pdf)
 
 ## ⚠️ Note
 The source code is not available as the project was developed during academic coursework. This repository contains complete project documentation and design.
