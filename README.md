@@ -20,4 +20,4 @@ This project is a Java-based Hotel Management System developed during my BCA to 
 The source code is not available as the project was developed during academic coursework. This repository contains complete project documentation and design.
 
 ## 👨‍💻 Author
-Shyam Sunder Kumar & Team Member
+Shyam Sunder Kumar, Chandani Kumari & Team Member
